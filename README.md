@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ---
 
 ## 🔥 Contribution Graph
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=a-hammadi&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=a-hammadi&theme=rogue)](https://github.com/a-hammadi/github-readme-activity-graph)
 
 ---
 
@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ---
 
 ## ✨ Latest Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-hammadi&repo=your-repo-name&theme=radical)](https://github.com/yourusername/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-hammadi&repo=your-repo-name&theme=radical)](https://github.com/a-hammadi/your-repo-name)
 
 ---
 
