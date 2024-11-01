@@ -36,34 +36,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 
 
-<!-- Add or remove icons based on your tech stack -->
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-hammadi&show_icons=true&theme=radical)
-
----
-
-## 🔥 Contribution Graph
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=a-hammadi&theme=rogue)](https://github.com/a-hammadi/github-readme-activity-graph)
-
----
-
-## 📈 Weekly Coding Stats
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=a-hammadi&layout=compact&theme=radical)
----
-
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-hammadi&layout=compact&theme=radical)
-
----
-
-## ✨ Latest Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-hammadi&repo=your-repo-name&theme=radical)](https://github.com/a-hammadi/your-repo-name)
-
----
-
 ## 📫 Connect with Me!
 <p align="left">
   <a href="https://linkedin.com/in/a-hammadi" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -71,5 +43,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=a-hammadi&color=blue&style=flat)
 
