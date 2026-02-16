@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/a-hammadi">
+  <a href="https://www.linkedin.com/in/hammadi-abdellatif/">
     <img src="https://img.shields.io/badge/LinkedIn-a--hammadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=a-hammadi&style=for-the-badge&color=0369a1" alt="Profile views" />
